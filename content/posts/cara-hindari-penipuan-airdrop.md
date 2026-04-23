@@ -4,7 +4,7 @@ title: "Cara Hindari Penipuan Airdrop: Red Flag yang Wajib Kamu Ketahui"
 summary: "Tidak semua airdrop asli. Banyak penipuan berkedok airdrop yang siap menguras wallet kamu. Kenali tanda-tanda airdrop palsu dan cara melindungi diri."
 categories:
   - Strategi
-image: placeholder.png
+image: /unduhan.jpg
 ---
 
 ## Airdrop Palsu: Ancaman Nyata
