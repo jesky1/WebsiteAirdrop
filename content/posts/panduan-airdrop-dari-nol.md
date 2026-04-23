@@ -4,7 +4,7 @@ title: "Panduan Lengkap Cara Garap Airdrop Crypto Dari Nol Tanpa Modal"
 summary: "Bingung cara mulai garap airdrop tapi nggak punya modal? Artikel ini membahas langkah-langkah dasar dari nol hingga siap berburu airdrop crypto secara gratis."
 categories:
   - Tutorial
-image: placeholder.png
+image: /steps-frame.jpg
 ---
 
 ## Apa Itu Airdrop Crypto?
